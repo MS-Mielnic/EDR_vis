@@ -1,11 +1,9 @@
-# Welcome to your Jupyter Book
+# About this portfolio
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This is an on going sample book of visualization, analytics, and Machine Learning jupyter notebooks
+to present some of my skills with different tools, technology and statistic analysis.
 
-Check out the content pages bundled with this sample book to see more.
+Check out the content pages bundled with this book or access my github at https://github.com/MS-Mielnic.
 
 ```{tableofcontents}
 ```
