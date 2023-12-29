@@ -1,6 +1,6 @@
 # About Maria Mielniczuk
 
- <img src="../workspaces/EDR_vis/myfirstbook/IMG_5360.jpg" alt="my photo" width="200px"/>
+ <img src="IMG_5360.png" alt="my photo" width="200px"/>
 
 This is a work in progress jupyter book on visualization, analytics, and Machine Learning,
 to present some of my skills with different tools, technics, technology and statistic analysis.
