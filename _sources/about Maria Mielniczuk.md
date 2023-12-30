@@ -1,8 +1,9 @@
 # About Maria Mielniczuk
 
  <img src="IMG_5360.png" alt="my photo" width="200px"/>
-
-
+        
+          
+          
 
 Right now, I am in the middle of a Master in Applied Data Science at the School of Information of the University of Michigan. Also, I work at Splunk, a data platform focused in observability and security. 
 I live near Dallas, Texas, with my husband, children and dog.
